@@ -27,3 +27,4 @@ for index,question in enumerate(data) :
     print(message)
 
 print(score,"/",len(data))
+print(time)
